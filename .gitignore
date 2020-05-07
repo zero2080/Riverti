@@ -1,6 +1,5 @@
 target/
-*.md
+
 .settings/
 .project
 .classpath
-
